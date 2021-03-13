@@ -1,0 +1,22 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dru123/-first-Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dru123/-first-Code/issues"
+  },
+  "bin": {
+    "mrfold": "a.js"
+  },
+  "homepage": "https://github.com/dru123/-first-Code#readme"
+}
